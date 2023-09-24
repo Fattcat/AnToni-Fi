@@ -2,7 +2,7 @@
 AnToni-Fi v1 is Based on ESP32 WiFi Board with all you need ... 
 
 - Image of connection ESP32
-<img src="AnToni-Fi-Schema.jpg" alt="ESP32-Schematics" width="300" height="600">
+<img src="AnToni-Fi-Schema.jpg" alt="ESP32-Schematics" width="333" height="700">
 
 # Connection
 
