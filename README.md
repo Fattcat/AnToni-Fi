@@ -2,6 +2,7 @@
 AnToni-Fi v1 is Based on ESP32 WiFi Board with all you need ... 
 
 # Connection
+
 TFT 2.4 Inch Display - ESP32
 TFT Pins - ESP32 Pins
 VCC --> 3.3V
